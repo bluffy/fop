@@ -13,5 +13,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: /luffy2006/fop
+          repository: /bluffy2006/fop
           tag_with_ref: true
